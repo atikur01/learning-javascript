@@ -6,4 +6,10 @@ y = 6;
 
 let z = x + y;
 
+console.log(z);
+
 //comment
+
+/* gbd
+multiline comment
+ */
