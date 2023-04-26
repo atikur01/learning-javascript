@@ -18,6 +18,9 @@ x >>>= 5;
 console.log(x)
 
 //Nullish Coalescing Assignment Example
-let o ;
+let o = BigInt("123456789012345678901234567890");
 o ??= 5;
 console.log(o)
+
+const person = {firstName:"atik",age:30}
+console.log(person.firstName)
