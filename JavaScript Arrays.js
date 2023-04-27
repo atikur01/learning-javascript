@@ -4,9 +4,11 @@ const cars1 = [
     "BMW"
 ];
 
+console.log(cars1)
 
 
-const cars = new Array("Saab", "Volvo", "BMW");
+
+const cars = ["Saab", "Volvo", "BMW"];
 cars.sort()
 console.log(cars)
 
